@@ -101,13 +101,11 @@ A multilingual disaster-response platform for reporting and coordinating inciden
 ## What I'm Exploring
 
 ```text
-Agentic AI & RAG        → retrieval, reranking, tool use, guardrails, evaluation
-Machine Learning        → time-series, anomaly detection, forecasting, model evaluation
-Software Engineering    → APIs, system design, databases, authentication, deployment
-Optimization            → constraint programming and real-world scheduling
+Low-Latency AI Systems  → responsive AI and agentic systems for real-time applications
+Agentic AI & RAG        → reliable retrieval, reasoning, tool use, and intelligent workflows
+Software Engineering    → building practical systems that simplify and improve everyday work
+Transparent Systems     → making decisions, processes, and information easier to understand and act on
 ```
-
----
 
 ## GitHub Activity
 
