@@ -6,7 +6,7 @@
 
 I enjoy building systems where **machine learning, LLMs, backend engineering, and real-world constraints** come together — from RAG pipelines and anomaly detection to optimization and full-stack applications.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ruazyn.online-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://ruazyn.online)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ruazyn.online-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://ruzayn.online)
 [![GitHub](https://img.shields.io/badge/GitHub-AHMEDzayn--ux-181717?style=for-the-badge&logo=github)](https://github.com/AHMEDzayn-ux)
 
 </div>
