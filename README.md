@@ -15,11 +15,11 @@ A Computer Science & Engineering undergraduate interested in AI/ML and software 
 
 ## About Me
 
-- 🎓 3rd-year **Computer Science & Engineering** undergraduate at the **University of Moratuwa**, specializing in **Data Science Engineering**
-- 🤖 Interested in **Agentic AI, RAG, Machine Learning, and intelligent software systems**
-- 🧠 I focus on learning **fundamentals and engineering principles**, not locking myself into a single technology stack
-- 🛠️ I enjoy taking ideas from **problem understanding → architecture → implementation → deployment**
-- 🌱 Currently deepening my understanding of **AI engineering, backend systems, retrieval, model evaluation, and production ML**
+-  3rd-year **Computer Science & Engineering** undergraduate at the **University of Moratuwa**, specializing in **Data Science Engineering**
+-  Interested in **Agentic AI, RAG, Machine Learning, and intelligent software systems**
+- I focus on learning **fundamentals and engineering principles**, not locking myself into a single technology stack
+-  I enjoy taking ideas from **problem understanding → architecture → implementation → deployment**
+-  Currently deepening my understanding of **AI engineering, backend systems, retrieval, model evaluation, and production ML**
 
 ---
 
@@ -107,12 +107,13 @@ Software Engineering    → building practical systems that simplify and improve
 Transparent Systems     → making decisions, processes, and information easier to understand and act on
 ```
 
+
 ## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AHMEDzayn-ux&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMEDzayn-ux&layout=compact&hide_border=true&langs_count=8" />
+<img height="165" src="./profile/stats.svg" />
+<img height="165" src="./profile/top-langs.svg" />
 
 </div>
 
