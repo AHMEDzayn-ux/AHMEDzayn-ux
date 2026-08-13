@@ -4,7 +4,7 @@
 
 ### Computer Science & Engineering Undergraduate · AI/ML · Software Engineering
 
-I enjoy building systems where **machine learning, LLMs, backend engineering, and real-world constraints** come together — from RAG pipelines and anomaly detection to optimization and full-stack applications.
+A Computer Science & Engineering undergraduate interested in AI/ML and software engineering. I enjoy learning new technologies as projects require them, rather than focusing on a single tech stack. My goal is to build strong fundamentals, stay adaptable, and use the tools that best fit the problem.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ruazyn.online-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://ruzayn.online)
 [![GitHub](https://img.shields.io/badge/GitHub-AHMEDzayn--ux-181717?style=for-the-badge&logo=github)](https://github.com/AHMEDzayn-ux)
